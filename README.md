@@ -80,6 +80,16 @@
     <td></td>
   </tr>
   <tr>
+    <td>Lập trình Web</td>
+    <td>Quản lý dịch vụ nấu tiệc Lan Huệ</td>
+    <td>
+    <a href="./Reports/3rd-year/LapTrinhWeb-QuanLyDichVuNauTiecLanHue.pdf">Xem</a>
+    </td>
+    <td>
+    <a href="https://github.com/K1ethoang/ASP.NET-Core-Website-QuanLyTiecCuoiLanHue">Code</a>
+    </td>
+  </tr>
+  <tr>
     <th colspan="4" style="text-align: center;">Năm 2</th>
   </tr>
   <tr>
