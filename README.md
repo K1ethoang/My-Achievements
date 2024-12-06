@@ -28,7 +28,7 @@
 ## Chứng chỉ, chứng nhận
 | Năm  | Chứng chỉ, chứng nhận                                                                                                 |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
-| 2024 | Đại sứ truyền thông Win "U" Game 4                                                                                    |
+| 2024 | [Đại sứ truyền thông Win "U" Game 4](./Certificates/WinUgame4.png)                                                    |
 | 2022 | [Olympic tin học Sinh viên Việt Nam](./Certificates/DH%20GTVT%20-%20Phan%20hieu%20TpHCM%20-%20Hoang%20Gia%20Kiet.pdf) |
 | 2020 | [Office Excel® 2013](./Certificates/MOS/Office%20Excel%202013.pdf)                                                    |
 | 2019 | [Office Word 2013](./Certificates/MOS/Office%20Word%202013.pdf)                                                       |
@@ -39,7 +39,7 @@
     <th style="text-align: center;">Môn học</th>
     <th style="text-align: center;">Tên dự án</th>
     <th style="text-align: center;">Báo cáo (PDF)</th>
-    <th style="text-align: center;">Source code</th>
+    <th style="text-align: center;">Source code & Demo</th>
   </tr>
   <tr>
     <th colspan="4" style="text-align: center;">Năm 4</th>
