@@ -3,10 +3,11 @@
   - [Giải thưởng](#giải-thưởng)
   - [Chứng chỉ, chứng nhận](#chứng-chỉ-chứng-nhận)
   - [Project + Báo cáo trong Đại Học](#project--báo-cáo-trong-đại-học)
- 
+
 # Tổng hợp các chứng chỉ, thành tích, báo cáo... của mình - Hoàng Gia Kiệt
 
 ## Thành tích
+
 | Năm  | Thành tích                                                                                                                                  |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2024 | [Hoàn thành xuất sắc công tác Đoàn và phong trào Thanh niên nhiệm kỳ 2022 - 2024](./Achievements/UVBCHDT.png)                               |
@@ -18,6 +19,7 @@
 | 2023 | [Cán bộ Đoàn tiêu biểu năm học 2021 – 2022](./Achievements/CBDTieuBieu.png)                                                                 |
 
 ## Giải thưởng
+
 | Năm  | Giải thưởng                                                                                          |
 | ---- | ---------------------------------------------------------------------------------------------------- |
 | 2024 | Giải Ba cuộc thi "CHALLENGE TO IoT NETWORK-CTIT NĂM 2024"                                            |
@@ -26,6 +28,7 @@
 | 2023 | Giải Ba cuộc thi "CHALLENGE TO IoT NETWORK-CTIT NĂM 2023"                                            |
 
 ## Chứng chỉ, chứng nhận
+
 | Năm  | Chứng chỉ, chứng nhận                                                                                                 |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
 | 2024 | [Đại sứ truyền thông Win "U" Game 4](./Certificates/WinUgame4.png)                                                    |
@@ -34,6 +37,7 @@
 | 2019 | [Office Word 2013](./Certificates/MOS/Office%20Word%202013.pdf)                                                       |
 
 ## Project + Báo cáo trong Đại Học
+
 <table>
   <tr>
     <th style="text-align: center;">Môn học</th>
@@ -52,6 +56,13 @@
       <a href="https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP">Backend</a>
       +
       <a href="https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP">Frontend</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Học máy cơ bản</td>
+    <td>Ứng dụng các thuật toán học máy trong việc dự đoán một loại nấm có độc hay không</td>
+    <td><a href="./Reports/4th-year/MachineLearning.pdf">Xem</a></td>
+    <td>
     </td>
   </tr>
   <tr>
