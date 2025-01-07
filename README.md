@@ -51,7 +51,7 @@
   <tr>
     <td>Project 1</td>
     <td>Xây dựng Website học từ vựng Tiếng Anh tích hợp Chatbot</td>
-    <td>Doing</td>
+    <td><a href="./Reports/4th-year/Project1.pdf">Xem</a></td>
     <td>
       <a href="https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP">Backend</a>
       +
