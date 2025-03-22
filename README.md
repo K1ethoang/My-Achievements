@@ -49,6 +49,22 @@
     <th colspan="4" style="text-align: center;">Năm 4</th>
   </tr>
   <tr>
+    <td>Đồ án tốt nghiệp</td>
+    <td>Loading</td>
+    <td><a href="">Loading</a></td>
+    <td>
+      <a href="">Loading</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Thực tập tốt nghiệp</td>
+    <td>Ứng dụng Change Data Capture (CDC) để chuyển đổi dữ liệu giữa các hệ quản trị cơ sở dữ liệu</td>
+    <td><a href="./Reports/4th-year/TTTN.pdf">Xem</a></td>
+    <td>
+      <a href="https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP">Code</a>
+    </td>
+  </tr>
+  <tr>
     <td>Project 1</td>
     <td>Xây dựng Website học từ vựng Tiếng Anh tích hợp Chatbot</td>
     <td><a href="./Reports/4th-year/Project1.pdf">Xem</a></td>
