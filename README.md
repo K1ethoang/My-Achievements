@@ -61,7 +61,7 @@
     <td>Ứng dụng Change Data Capture (CDC) để chuyển đổi dữ liệu giữa các hệ quản trị cơ sở dữ liệu</td>
     <td><a href="./Reports/4th-year/TTTN.pdf">Xem</a></td>
     <td>
-      <a href="https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP">Code</a>
+      <a href="https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025">Code</a>
     </td>
   </tr>
   <tr>
