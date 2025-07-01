@@ -50,10 +50,11 @@
   </tr>
   <tr>
     <td>Đồ án tốt nghiệp</td>
-    <td>Loading</td>
-    <td><a href="">Loading</a></td>
+    <td>Nghiên cứu bài toán Object Detection và phát triển hệ thống giám sát giao thông tích hợp mô hình YOLO để phát hiện tai nạn giao thông tại Việt Nam</td>
+    <td><a href="./Reports/4th-year/DATN.pdf">Xem</a></td>
     <td>
-      <a href="">Loading</a>
+      <a href="https://github.com/K1ethoang/Accident_Detect">Huấn luyện mô hình</a> +
+      <a href="https://github.com/K1ethoang/Surveillance-Camera-System">Hệ thống giám sát</a>
     </td>
   </tr>
   <tr>
