@@ -22,6 +22,7 @@
 
 | Năm  | Giải thưởng                                                                                          |
 | ---- | ---------------------------------------------------------------------------------------------------- |
+| 2025 | Giải khuyến khích Nghiên cứu Khoa học Sinh viên năm học 2024 - 2025                                  |
 | 2024 | Giải Ba cuộc thi "CHALLENGE TO IoT NETWORK-CTIT NĂM 2024"                                            |
 | 2023 | [Giải Ba Nghiên cứu Khoa học Sinh viên năm học 2022 - 2023](./Awards/Giai3NCKHSV.png)                |
 | 2023 | [Giải Ba kỳ thi sinh viên giỏi cấp Trường môn Tin học năm học 2022 - 2023](./Awards/Giai3NCKHSV.png) |
