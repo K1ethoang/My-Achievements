@@ -22,7 +22,7 @@
 
 | Năm  | Giải thưởng                                                                                          |
 | ---- | ---------------------------------------------------------------------------------------------------- |
-| 2025 | Giải khuyến khích Nghiên cứu Khoa học Sinh viên năm học 2024 - 2025 — [Source code](https://github.com/K1ethoang/Accident_Detect) (tiền đề cho [Đồ án tốt nghiệp](./Reports/4th-year/DATN.pdf)) |
+| 2025 | Giải khuyến khích Nghiên cứu Khoa học Sinh viên năm học 2024 - 2025                                  |
 | 2024 | Giải Ba cuộc thi "CHALLENGE TO IoT NETWORK-CTIT NĂM 2024"                                            |
 | 2023 | [Giải Ba Nghiên cứu Khoa học Sinh viên năm học 2022 - 2023](./Awards/Giai3NCKHSV.png)                |
 | 2023 | [Giải Ba kỳ thi sinh viên giỏi cấp Trường môn Tin học năm học 2022 - 2023](./Awards/Giai3SVGMTinHoc.png) |
@@ -50,13 +50,19 @@
     <th colspan="4" style="text-align: center;">Năm 4</th>
   </tr>
   <tr>
+    <td>Nghiên cứu Khoa học Sinh viên (2024 - 2025)</td>
+    <td>Nghiên cứu bài toán Object Detection, xây dựng mô hình YOLO phát hiện tai nạn giao thông tại Việt Nam (tiền đề cho Đồ án tốt nghiệp)</td>
+    <td></td>
+    <td>
+      <a href="https://github.com/K1ethoang/Accident_Detect">Code</a>
+    </td>
+  </tr>
+  <tr>
     <td>Đồ án tốt nghiệp</td>
     <td>Nghiên cứu bài toán Object Detection và phát triển hệ thống giám sát giao thông tích hợp mô hình YOLO để phát hiện tai nạn giao thông tại Việt Nam</td>
     <td><a href="./Reports/4th-year/DATN.pdf">Xem</a></td>
     <td>
-      <a href="https://github.com/K1ethoang/Accident_Detect">Huấn luyện mô hình</a>
-      (bắt nguồn từ đề tài Nghiên cứu Khoa học Sinh viên 2024 - 2025)
-      +
+      <a href="https://github.com/K1ethoang/Accident_Detect">Huấn luyện mô hình</a> +
       <a href="https://github.com/K1ethoang/Surveillance-Camera-System">Hệ thống giám sát</a>
       +
       <a href="https://youtu.be/7TVzBU8mo7o">Demo</a>
