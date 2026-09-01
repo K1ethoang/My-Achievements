@@ -58,6 +58,8 @@
       (bắt nguồn từ đề tài Nghiên cứu Khoa học Sinh viên 2024 - 2025)
       +
       <a href="https://github.com/K1ethoang/Surveillance-Camera-System">Hệ thống giám sát</a>
+      +
+      <a href="https://youtu.be/7TVzBU8mo7o">Demo</a>
     </td>
   </tr>
   <tr>
@@ -83,6 +85,7 @@
     <td>Ứng dụng các thuật toán học máy trong việc dự đoán một loại nấm có độc hay không</td>
     <td><a href="./Reports/4th-year/MachineLearning.pdf">Xem</a></td>
     <td>
+      <a href="https://github.com/K1ethoang/ML_Uni">Code</a>
     </td>
   </tr>
   <tr>
@@ -99,7 +102,7 @@
       +
       <a href="https://github.com/Bie-NHD/Rent-management-dashboard">Frontend</a>
       +
-      <a href="https://github.com/Bie-NHD/Rent-management-dashboard">Demo video</a>
+      <a href="https://youtu.be/dvkEFDSKchc">Demo video</a>
     </td>
   </tr>
   <tr>
