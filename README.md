@@ -56,6 +56,8 @@
     <td>
       <a href="https://github.com/K1ethoang/Accident_Detect">Huấn luyện mô hình</a> +
       <a href="https://github.com/K1ethoang/Surveillance-Camera-System">Hệ thống giám sát</a>
+      +
+      <a href="https://youtu.be/7TVzBU8mo7o">Demo</a>
     </td>
   </tr>
   <tr>
@@ -64,6 +66,14 @@
     <td><a href="./Reports/4th-year/TTTN.pdf">Xem</a></td>
     <td>
       <a href="https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Nghiên cứu Khoa học Sinh viên (2024 - 2025)</td>
+    <td>Nghiên cứu bài toán Object Detection, xây dựng mô hình YOLO phát hiện tai nạn giao thông tại Việt Nam (tiền đề cho Đồ án tốt nghiệp)</td>
+    <td></td>
+    <td>
+      <a href="https://github.com/K1ethoang/Accident_Detect">Code</a>
     </td>
   </tr>
   <tr>
@@ -81,6 +91,7 @@
     <td>Ứng dụng các thuật toán học máy trong việc dự đoán một loại nấm có độc hay không</td>
     <td><a href="./Reports/4th-year/MachineLearning.pdf">Xem</a></td>
     <td>
+      <a href="https://github.com/K1ethoang/ML_Uni">Code</a>
     </td>
   </tr>
   <tr>
@@ -97,7 +108,7 @@
       +
       <a href="https://github.com/Bie-NHD/Rent-management-dashboard">Frontend</a>
       +
-      <a href="https://github.com/Bie-NHD/Rent-management-dashboard">Demo video</a>
+      <a href="https://youtu.be/dvkEFDSKchc">Demo video</a>
     </td>
   </tr>
   <tr>
