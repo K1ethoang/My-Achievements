@@ -50,14 +50,6 @@
     <th colspan="4" style="text-align: center;">Năm 4</th>
   </tr>
   <tr>
-    <td>Nghiên cứu Khoa học Sinh viên (2024 - 2025)</td>
-    <td>Nghiên cứu bài toán Object Detection, xây dựng mô hình YOLO phát hiện tai nạn giao thông tại Việt Nam (tiền đề cho Đồ án tốt nghiệp)</td>
-    <td></td>
-    <td>
-      <a href="https://github.com/K1ethoang/Accident_Detect">Code</a>
-    </td>
-  </tr>
-  <tr>
     <td>Đồ án tốt nghiệp</td>
     <td>Nghiên cứu bài toán Object Detection và phát triển hệ thống giám sát giao thông tích hợp mô hình YOLO để phát hiện tai nạn giao thông tại Việt Nam</td>
     <td><a href="./Reports/4th-year/DATN.pdf">Xem</a></td>
@@ -74,6 +66,14 @@
     <td><a href="./Reports/4th-year/TTTN.pdf">Xem</a></td>
     <td>
       <a href="https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Nghiên cứu Khoa học Sinh viên (2024 - 2025)</td>
+    <td>Nghiên cứu bài toán Object Detection, xây dựng mô hình YOLO phát hiện tai nạn giao thông tại Việt Nam (tiền đề cho Đồ án tốt nghiệp)</td>
+    <td></td>
+    <td>
+      <a href="https://github.com/K1ethoang/Accident_Detect">Code</a>
     </td>
   </tr>
   <tr>
